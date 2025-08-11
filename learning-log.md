@@ -9,4 +9,5 @@
 - Practiced using variables, data types, and user input
 - Built a simple calculator using `if` conditions
 - Uploaded new scripts
-- GitHub link: [Your Day 2 script link here]
+- GitHub link: (https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/day2_variables_input_py.py)
+- 
