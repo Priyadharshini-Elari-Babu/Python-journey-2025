@@ -9,5 +9,5 @@
 - Practiced using variables, data types, and user input
 - Built a simple calculator using `if` conditions
 - Uploaded new scripts
-- GitHub link: (https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/day2_variables_input_py.py)
-- 
+- GitHub link 1: (https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/day2_variables_input_py.py)
+- GitHub link 2: https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/ex_program_for_user_input_and_mini_calculator.py
