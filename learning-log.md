@@ -24,4 +24,4 @@
 ## ✅ Enhanced Guessing Game
 - Added a 3-attempt limit using a while loop
 - Learned how to track attempts and end the game
-- GitHub link: [your script URL here]
+- GitHub link: https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/guessing_game_3_attempts.py
