@@ -19,4 +19,4 @@
 ## ✅ Conditionals & Game
 - Learned how `if/elif/else` works
 - Built a number-guessing game using random numbers
-- GitHub link: 
+- GitHub link: https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/number_guessing_game_py.py
