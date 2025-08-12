@@ -15,3 +15,8 @@
 ## ✅ Loops 
 - Practiced `for`, `while`, `break`, and `continue`
 - GitHub link: https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/loops_basics_py.py
+
+## ✅ Conditionals & Game
+- Learned how `if/elif/else` works
+- Built a number-guessing game using random numbers
+- GitHub link: 
