@@ -14,4 +14,4 @@
 
 ## ✅ Loops 
 - Practiced `for`, `while`, `break`, and `continue`
-- GitHub link: [your script URL here]
+- GitHub link: https://github.com/Priyadharshini-Elari-Babu/Python-journey-2025/blob/main/loops_basics_py.py
